@@ -15,3 +15,4 @@ To do this exercise, you must read carefully the given documentations and rules.
     - https://render.com/docs/static-sites
     - https://render.com/docs/redirects-rewrites
 # projetPlateformesCloud
+# projetPlateformesCloud
